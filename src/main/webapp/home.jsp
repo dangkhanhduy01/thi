@@ -5,8 +5,8 @@
 --%>
 <%@page import="model.SanPham"%>
 <%@page import="java.util.ArrayList"%>
-<%@page import="model.Sach"%>
-<%@page import="model.Sach"%>
+<%@page import="model.SanPham"%>
+<%@page import="model.SanPham"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
 <!--nhung noi dung header.jsp-->
