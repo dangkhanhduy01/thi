@@ -33,7 +33,7 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="card mb-2">
                         <div class="card-header">
-                            <%=s.getTensach() %>
+                            <%=s.getTenSP()%>
                         </div>
                         <div class="card-body">
                             <img class="card-img" src="assets/images/products/<%=s.getHinh() %>" alt="Card image cap">                        
@@ -41,7 +41,7 @@
                         <div class="card-footer">
                             <div class="row">
                                 <div class="col">
-                                    <p class="btn btn-danger btn-block"><%=s.getDongia() %></p>
+                                    <p class="btn btn-danger btn-block"><%=s.getDonGia()%></p>
                                 </div>
                                 <div class="col text-end">
                                     <a href="#" class="btn btn-success btn-block">Add to cart</a>
